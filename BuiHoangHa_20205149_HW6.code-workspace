@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "BuiHoangHa_20205149_HW6",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
